@@ -79,11 +79,9 @@
   </a>
   <br/><br/>
   
-  <!-- Transparent Stats Cards -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=wiseblue07&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="wiseblue07's GitHub stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiseblue07&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" width="48%" />
-  </p>
+  <!-- Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wiseblue07&show_icons=true&theme=tokyonight" alt="wiseblue07's GitHub stats" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiseblue07&layout=compact&theme=tokyonight" alt="Top Languages" height="192" />
 </div>
 
 <!-- Footer Banner -->
