@@ -28,7 +28,7 @@
       <br/>
       <h2>🎓 Education</h2>
       <p>
-        <b>Kangwon National University (강원대학교)</b><br/>
+        <b>Kangwon National University</b><br/>
         <i>B.S. in Electronic Information and Communication Engineering</i>
       </p>
     </td>
