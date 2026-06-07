@@ -1,32 +1,110 @@
-# JunhyukMin
+<div align="center">
 
-> Config files for my GitHub profile.
+<!-- Header Banner with Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Junhyuk%20Min&fontSize=80&fontAlignY=35&desc=Embedded%20%7C%20Low-Level%20%7C%20Game%20Dev&descAlignY=55&descSize=25" />
 
----
+<!-- Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=wiseblue07&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
-## 📊 Repository Status
+<br/><br/>
 
-![GitHub followers](https://img.shields.io/github/followers/wiseblue07?label=Followers&logo=github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/wiseblue07?label=Total%20Stars&logo=github&style=flat-square)
-![Repository Size](https://img.shields.io/github/repo-size/wiseblue07/JunhyukMin?label=Repo%20Size&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/wiseblue07/JunhyukMin?label=Last%20Commit&style=flat-square)
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Electronic+Info+%26+Comm+Engineering;Embedded+Systems+Developer;Low-Level+Programming+Enthusiast;Game+Engine+Architect" alt="Typing SVG" />
+</a>
 
----
+</div>
 
-## 🏷️ Topics
+<br/>
 
-![config](https://img.shields.io/badge/config-blue?style=flat-square)
-![github-config](https://img.shields.io/badge/github--config-blue?style=flat-square)
+<div align="center">
+  <h2>✨ About Me</h2>
+  <p>
+    I dive deep into the foundations of computing, preferring the bare metal over the browser.<br/>
+    Passionate about squeezing performance out of hardware, understanding RTOS, and crafting robust systems from the ground up.
+  </p>
+</div>
 
----
+<br/>
 
-## 📝 About
+<div align="center">
+  <h2>🎓 Education</h2>
+  <p>
+    <b>Kangwon National University (강원대학교)</b><br/>
+    <i>B.S. in Electronic Information and Communication Engineering</i>
+  </p>
+</div>
 
-This repository contains configuration files and personal GitHub profile settings.
+<br/>
 
-### Links
-- 🔗 [GitHub Profile](https://github.com/wiseblue07)
+<!-- Tech Stack Badges -->
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  <br/>
+  
+  <h3>Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
+  </p>
+  
+  <br/>
 
----
+  <h3>Game Dev & Graphics</h3>
+  <p>
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+    <img src="https://img.shields.io/badge/opengl-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  </p>
+  
+  <br/>
 
-*Made with ❤️ by wiseblue07*
+  <h3>Embedded & OS</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  </p>
+  
+  <br/>
+
+  <h3>Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+    <img src="https://img.shields.io/badge/visualstudio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+    <img src="https://img.shields.io/badge/cmake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+    <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </p>
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  <br/>
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wiseblue07&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="wiseblue07 trophies" />
+  </a>
+  <br/><br/>
+  
+  <!-- Transparent Stats Cards -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=wiseblue07&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="wiseblue07's GitHub stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiseblue07&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" width="48%" />
+  </p>
+</div>
+
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+</div>
