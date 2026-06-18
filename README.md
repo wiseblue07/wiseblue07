@@ -69,18 +69,18 @@
 
 <br/>
 
-<!--
+<!-- GitHub Analytics
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   <br/>
-  
-  <!-- GitHub Trophies -->
+
+  GitHub Trophies
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=wiseblue07&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="wiseblue07 trophies" />
   </a>
   <br/><br/>
-  
-  <!-- Stats Cards -->
+
+  Stats Cards
   <img src="https://github-readme-stats.vercel.app/api?username=wiseblue07&show_icons=true&theme=tokyonight" alt="wiseblue07's GitHub stats" height="192" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiseblue07&layout=compact&theme=tokyonight" alt="Top Languages" height="192" />
 </div>
