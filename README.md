@@ -69,6 +69,7 @@
 
 <br/>
 
+<!--
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   <br/>
@@ -83,6 +84,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wiseblue07&show_icons=true&theme=tokyonight" alt="wiseblue07's GitHub stats" height="192" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiseblue07&layout=compact&theme=tokyonight" alt="Top Languages" height="192" />
 </div>
+-->
 
 <!-- Footer Banner -->
 <div align="center">
